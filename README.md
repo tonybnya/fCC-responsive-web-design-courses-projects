@@ -9,3 +9,4 @@
  - [x] Registration Form
  - [x] Rothko Painting
  - [x] Photo Gallery
+ - [x] Nutrition Label
