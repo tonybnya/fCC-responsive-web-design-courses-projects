@@ -7,3 +7,4 @@
  - [x] Cafe Menu
  - [x] Color Markers
  - [x] Registration Form
+ - [x] Rothko Painting
