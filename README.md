@@ -10,3 +10,4 @@
  - [x] Rothko Painting
  - [x] Photo Gallery
  - [x] Nutrition Label
+ - [x] Quiz
