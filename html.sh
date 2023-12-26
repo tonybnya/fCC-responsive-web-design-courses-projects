@@ -10,11 +10,12 @@ if touch "$filename"; then
   # Use curly braces to group the commands and redirect the output
   {
     echo "<!DOCTYPE html>"
-    echo "<html lang='en'>"
+    echo '<html lang="en">'
     echo "  <head>"
-    echo "    <meta charset='UTF-8'>"
-    echo "    <title>Your Page Title</title>"
-    echo "    <link rel='stylesheet' href='styles.css'>"
+    echo '    <meta charset="UTF-8">'
+    echo '    <meta name="viewport" content="width=device-width, initial-scale=1.0">'
+    echo "    <title>Page Title</title>"
+    echo '    <link rel="stylesheet" href="styles.css">'
     echo "  </head>"
     echo "  <body>"
     echo "  </body>"
