@@ -11,3 +11,4 @@
  - [x] Photo Gallery
  - [x] Nutrition Label
  - [x] Quiz
+ - [x] Balance Sheet
