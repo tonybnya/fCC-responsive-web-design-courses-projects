@@ -12,3 +12,4 @@
  - [x] Nutrition Label
  - [x] Quiz
  - [x] Balance Sheet
+ - [x] Cat Painting
