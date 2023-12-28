@@ -13,3 +13,4 @@
  - [x] Quiz
  - [x] Balance Sheet
  - [x] Cat Painting
+ - [x] Piano
