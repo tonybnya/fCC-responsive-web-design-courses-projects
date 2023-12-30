@@ -14,3 +14,4 @@
  - [x] Balance Sheet
  - [x] Cat Painting
  - [x] Piano
+ - [x] City Skyline
