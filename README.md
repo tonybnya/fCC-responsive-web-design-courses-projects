@@ -15,3 +15,4 @@
  - [x] Cat Painting
  - [x] Piano
  - [x] City Skyline
+ - [x] Magazine
