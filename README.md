@@ -16,3 +16,4 @@
  - [x] Piano
  - [x] City Skyline
  - [x] Magazine
+ - [x] Ferris Wheel
