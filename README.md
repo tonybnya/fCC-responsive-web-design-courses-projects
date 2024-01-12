@@ -17,3 +17,4 @@
  - [x] City Skyline
  - [x] Magazine
  - [x] Ferris Wheel
+ - [x] Penguin
